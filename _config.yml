@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ruoyu Zhang"
 title_separator          : "-"
 name                     : &name "Ruoyu Zhang"
-description              : &description "personal description"
+description              : &description "Wait and Hope"
 url                      : https://Git-zry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Git-zry/Git-zry.github.io"
@@ -20,15 +20,15 @@ repository               : "Git-zry/Git-zry.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
+  # Biographic information     
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ruoyu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Wait and HopeWait and HopeWait and Hope"
+  location         : "China"  
+  employer         : "Guizhou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ZRY971123@gmail.com"       
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
