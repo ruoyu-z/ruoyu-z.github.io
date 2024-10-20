@@ -28,12 +28,13 @@ B.S. in Computer Science <span style="float: right;">Sep 2016 – July 2020</spa
 
 Average Score: 82.02/100
 
+
 PESEARCH INTERESTS
-======
-Machine Learning, Computer Vision and Pattern Recognition, MR/AR/VR, Educational Technology
+------
+Machine Learning, Computer Vision and Pattern Recognition, MR/AR/VR, Human-Computer Interaction, Educational Technology
 
 PUBLICATIONS
-======
+------
 [Journal of Electronic Imaging]
 
 LGST-Drop: Label-guided structural dropout for spatial–temporal convolutional neural networks
@@ -44,8 +45,9 @@ Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 
 <img src="../images/LGST-Drop.png" alt="The pipeline of LGST-Drop" style="width:600px; display: block; margin: 0 auto;">
 
+
 PREPRINTS
-======
+------
 GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration
 __Ruoyu Zhang__, Lihui Wang, Kun Tang, Jingwen Xu, Hongjiang Wei, Arxiv Preprint
 
@@ -64,8 +66,9 @@ __Ruoyu Zhang__, Lihui Wang, Kun Tang, Jingwen Xu, Hongjiang Wei, Arxiv Preprint
 
 这项工作主要专注于非欧几里得平面上的卷积和图注意力
 
+
 RESEARCH EXPERIENCE  
-======
+------
 •	Intelligent Medical Image Analysis and Precision Diagnosis Lab, Guizhou University	 Guizhou, China
 
 Research assistant, supervised by Prof. Lihui Wang	Oct 2022 – Jun 2024
@@ -82,8 +85,9 @@ Research assistant, supervised by Prof. Chuhua Huang	Aug 2021 – Oct 2022
   
 - Collaborated on the development of a deep learning model for gesture recognition, optimizing accuracy and performance for real-world applications.
 
+
 SELECTED AWARDS AND HONORS
-======
+------
 •	Special Academic Scholarship (Top 3%), Guizhou University	<span style="float: right;">2024</span>
 
 •	National First Prize, 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition	<span style="float: right;">2023</span>
@@ -94,14 +98,16 @@ SELECTED AWARDS AND HONORS
 
 •	Second-class Scholarship (Top 20%), Shandong University of Science and Technology	<span style="float: right;">2017 & 2018</span>
 
+
 INVITED TALKS AND MEDIA COVERAGE
-======
+------
 •	Invited talk for the 2023 3rd International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC 2023), Xiamen, China, December 23, 2023.
 
 <img src="../images/ICAIRC.png" alt="2023 3rd International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC 2023)" style="width:700px; display: block; margin: 0 auto;">
 
-SKILLS
-======
-Progarmming: C, Python(Pytorch, Tensorflow, PyG), LATEX, MATLAB
 
-English: IELTS in prepared
+SKILLS
+------
+Progarmming: C, Python(Pytorch, Tensorflow, PyG), LATEX, MATLAB, Development and debugging on Linux servers
+
+English: IELTS in prepared. I expect to achieve a score of 6.5 or higher in early November.
