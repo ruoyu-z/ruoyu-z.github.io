@@ -39,7 +39,7 @@ Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 
 这项工作致力于用深度学习方法改善手势识别效果.
 
-<img src="../images/LGST-Drop.png" alt="The pipeline of LGST-Drop" style="width:300px; display: block; margin: 0 auto;">
+<img src="../images/LGST-Drop.png" alt="The pipeline of LGST-Drop" style="width:600px; display: block; margin: 0 auto;">
 
 PREPRINTS
 ======
@@ -49,8 +49,8 @@ __Ruoyu Zhang__, Lihui Wang, Kun Tang, Jingwen Xu, Hongjiang Wei, Arxiv Preprint
 <div style="width: 100%; overflow: hidden;">
   <!-- 左边的图片 -->
   <div style="float: left; width: 50%;">
-    <img src="../images/overallframe.png" alt="overallframe" style="width: 90%;" />
-    <img src="../images/GESHDDnetwork.png" alt="左边图2" style="width: 90%;" />
+    <img src="../images/overallframe.png" alt="overallframe" style="width: 80%;" />
+    <img src="../images/GESHDDnetwork.png" alt="左边图2" style="width: 80%;" />
   </div>
 
   <!-- 右边的图片 -->
@@ -81,17 +81,15 @@ Research assistant, supervised by Prof. Chuhua Huang	Aug 2021 – Oct 2022
 
 SELECTED AWARDS AND HONORS
 ======
-•	Special Academic Scholarship (Top 3%), Guizhou University	2024
+•	Special Academic Scholarship (Top 3%), Guizhou University	<span style="float: right;">2024</span>
 
-•	National First Prize, 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition	2023
+•	National First Prize, 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition	<span style="float: right;">2023</span>
 
-•	First-class Graduate Academic Scholarship (Top 5%), Guizhou University	2022
+•	First-class Graduate Academic Scholarship (Top 5%), Guizhou University	<span style="float: right;">2022</span>
 
-•	National Third Prize, Robocom Robotics Developer Competition - Second-class Scholarship (Top 20%), Shandong University of Science and Technology, 2017 & 2018.	2022
+•	National Third Prize, Robocom Robotics Developer Competition - Second-class Scholarship (Top 20%), Shandong University of Science and Technology <span style="float: right;">2022</span>
 
-•	Second-class Scholarship (Top 20%), Shandong University of Science and Technology	2017 & 2018
-
-• Lanqiao   
+•	Second-class Scholarship (Top 20%), Shandong University of Science and Technology	<span style="float: right;">2017 & 2018</span>
 
 INVITED TALKS AND MEDIA COVERAGE
 ======
