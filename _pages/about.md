@@ -51,13 +51,13 @@ __Ruoyu Zhang__, Lihui Wang, Kun Tang\textsuperscript{1}, Jingwen Xu, Hongjiang 
 <div style="width: 100%; overflow: hidden;">
   <!-- 左边的图片 -->
   <div style="float: left; width: 50%;">
-    <img src="../images/overallframe.jpg" alt="overallframe" style="width: 90%;" />
-    <img src="../images/GESHDDnetwork.jpg" alt="左边图2" style="width: 90%;" />
+    <img src="../images/overallframe.png" alt="overallframe" style="width: 90%;" />
+    <img src="../images/GESHDDnetwork.png" alt="左边图2" style="width: 90%;" />
   </div>
 
   <!-- 右边的图片 -->
   <div style="float: right; width: 50%;">
-    <img src="../images/version_1" alt="version_1" style="width: 90%;" />
+    <img src="../images/version_1.png" alt="version_1" style="width: 90%;" />
   </div>
 </div>
 
