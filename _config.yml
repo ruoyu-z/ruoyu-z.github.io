@@ -21,14 +21,14 @@ repository               : "Git-zry/Git-zry.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
-  name             : "Your Sidebar Name"
+  avatar           : "photo.png"  
+  name             : "Ruoyu Zhang"    
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "China"
+  employer         : "Guizhou University"  
+  uri              : # URL  
+  email            : "ZRY@971123.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
