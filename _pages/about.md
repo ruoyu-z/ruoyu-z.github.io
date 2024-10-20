@@ -21,9 +21,9 @@ GPA: 3.24/4
 
 Shandong University of Science and Technology	<span style="float: right;">Qingdao, China</span>
 
-B.S. in Computer Science
+B.S. in Computer Science <span style="float: right;">Sep 2016 – July 2020</span>
 
-Average Score: 82.02/100 <span style="float: right;">Sep 2016 – July 2020</span>
+Average Score: 82.02/100
 
 PESEARCH INTERESTS
 ======
@@ -44,9 +44,7 @@ Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 PREPRINTS
 ======
 GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration
-__Ruoyu Zhang__, Lihui Wang, Kun Tang\textsuperscript{1}, Jingwen Xu, Hongjiang Wei, Arxiv Preprint
-
-<img src="../images/version_1.png" alt="version_1" style="width:600px; display: block; margin: 0 auto;">
+__Ruoyu Zhang__, Lihui Wang, Kun Tang, Jingwen Xu, Hongjiang Wei, Arxiv Preprint
 
 <div style="width: 100%; overflow: hidden;">
   <!-- 左边的图片 -->
@@ -104,4 +102,5 @@ INVITED TALKS AND MEDIA COVERAGE
 SKILLS
 ======
 Progarmming: C, Python(Pytorch, Tensorflow, PyG), LATEX, MATLAB
+
 English: IELTS in prepared
