@@ -15,12 +15,10 @@ Guizhou University	<span style="float: right;">Guizhou, China</span>
 
 Supervisor: Prof. Lihui Wang <span style="float: right;">Sep 2021 – July 2024</span>
 
-Master in Software Engineering
+Master in Software Engineering ( Ranked 10th in Software Engineering in China (Top 7%, 2024 ShanghaiRanking)  
+[ShanghaiRanking 2024 - Software Engineering](https://www.shanghairanking.cn/rankings/bcsr/2024/0835) )
 
-Ranked 10th in Software Engineering in China (Top 7%, 2024 ShanghaiRanking)  
-[ShanghaiRanking 2024 - Software Engineering](https://www.shanghairanking.cn/rankings/bcsr/2024/0835)  
-
-GPA: 3.24/4
+GPA: 3.24/4 (Ranked 1st out of 44 students in comprehensive evaluation)
 
 Shandong University of Science and Technology	<span style="float: right;">Qingdao, China</span>
 
