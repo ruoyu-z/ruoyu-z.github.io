@@ -84,6 +84,8 @@ INVITED TALKS AND MEDIA COVERAGE
 ======
 •	Invited talk for the 2023 3rd International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC 2023), Xiamen, China, December 23, 2023.
 
+<img src="../images/ICAIRC.png" alt="2023 3rd International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC 2023)" style="width:700px; display: block; margin: 0 auto;">
+
 SKILLS
 ======
 Progarmming: C, Python(Pytorch, Tensorflow, PyG), LATEX, MATLAB
