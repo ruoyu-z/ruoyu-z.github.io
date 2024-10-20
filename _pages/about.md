@@ -39,6 +39,8 @@ Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 
 这项工作致力于用深度学习方法改善手势识别效果.
 
+<img src="images/profile.jpg" alt="The pipeline of LGST-Drop" style="width:300px; display: block; margin: 0 auto;">
+
 PREPRINTS
 ======
 GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration
@@ -67,10 +69,15 @@ Research assistant, supervised by Prof. Chuhua Huang	Aug 2021 – Oct 2022
 SELECTED AWARDS AND HONORS
 ======
 •	Special Academic Scholarship (Top 3%), Guizhou University	2024
+
 •	National First Prize, 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition	2023
+
 •	First-class Graduate Academic Scholarship (Top 5%), Guizhou University	2022
+
 •	National Third Prize, Robocom Robotics Developer Competition - Second-class Scholarship (Top 20%), Shandong University of Science and Technology, 2017 & 2018.	2022
+
 •	Second-class Scholarship (Top 20%), Shandong University of Science and Technology	2017 & 2018
+
 • Lanqiao   
 
 INVITED TALKS AND MEDIA COVERAGE
