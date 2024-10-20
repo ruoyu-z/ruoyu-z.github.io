@@ -98,7 +98,7 @@ SELECTED AWARDS AND HONORS
 
 •	First-class Graduate Academic Scholarship (Top 5%), Guizhou University	<span style="float: right;">2022</span>
 
-•	National Third Prize, Robocom Robotics Developer Competition - Second-class Scholarship (Top 20%), Shandong University of Science and Technology <span style="float: right;">2022</span>
+•	National Third Prize, Robocom Robotics Developer Competition <span style="float: right;">2022</span>
 
 •	Second-class Scholarship (Top 20%), Shandong University of Science and Technology	<span style="float: right;">2017 & 2018</span>
 
