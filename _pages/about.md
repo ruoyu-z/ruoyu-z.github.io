@@ -38,7 +38,7 @@ PUBLICATIONS
 [Journal of Electronic Imaging]
 
 LGST-Drop: Label-guided structural dropout for spatial–temporal convolutional neural networks
-Cui H., Huang R., __Zhang R__., et al.       
+Cui H., Huang R., __Zhang R__., et al. 
 Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 
 Brief Description: This work utilizes deep learning methods for action recognition and improves the performance of convolutional neural networks through a novel dropout method.
@@ -69,21 +69,21 @@ Brief Description: This work is dedicated to the study of deep learning methods 
 
 RESEARCH EXPERIENCE  
 ------
-• Cortical Surface Image Registration Research
+• __Cortical Surface Image Registration Research__
 
-Intelligent Medical Image Analysis and Precision Diagnosis Lab, Guizhou University	 Guizhou, China
+Intelligent Medical Image Analysis and Precision Diagnosis Lab, Guizhou University	 Guizhou, China <span style="float: right;">Oct 2022 – Jun 2024</span>
 
-Research assistant, supervised by Prof. Lihui Wang	Oct 2022 – Jun 2024
+Research assistant, supervised by Prof. Lihui Wang
 
 - Processed large-scale cortical surface data and developed a deep learning model for cortical surface registration, improving alignment and analysis accuracy.
   
 - Conducted research on spherical convolutional neural networks (Spherical CNNs), focusing on applying them to cortical surface data for advanced spatial analysis.
   
-•	Perception and Tracking Algorithms for AR Devices
+•	__Perception and Tracking Algorithms for AR Devices__
 
-Artificial Intelligence Lab, Guizhou University	 Guizhou, China
+Artificial Intelligence Lab, Guizhou University	 Guizhou, China <span style="float: right;">Aug 2021 – Oct 2022</span>
 
-Research assistant, supervised by Prof. Chuhua Huang	Aug 2021 – Oct 2022
+Research assistant, supervised by Prof. Chuhua Huang
 
 - Developed and implemented SLAM (Simultaneous Localization and Mapping) technology for AR devices and smartphones, enhancing real-time spatial awareness and interaction.
   
