@@ -39,7 +39,7 @@ Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 
 这项工作致力于用深度学习方法改善手势识别效果.
 
-<img src="../images/LGST-Drop.jpg" alt="The pipeline of LGST-Drop" style="width:300px; display: block; margin: 0 auto;">
+<img src="../images/LGST-Drop.png" alt="The pipeline of LGST-Drop" style="width:300px; display: block; margin: 0 auto;">
 
 PREPRINTS
 ======
