@@ -41,7 +41,7 @@ LGST-Drop: Label-guided structural dropout for spatial–temporal convolutional 
 Cui H., Huang R., __Zhang R__., et al.       
 Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 
-这项工作致力于用深度学习方法改善手势识别效果.
+Brief Description: This work utilizes deep learning methods for action recognition and improves the performance of convolutional neural networks through a novel dropout method.
 
 <img src="../images/LGST-Drop.png" alt="The pipeline of LGST-Drop" style="width:600px; display: block; margin: 0 auto;">
 
@@ -64,12 +64,14 @@ __Ruoyu Zhang__, Lihui Wang, Kun Tang, Jingwen Xu, Hongjiang Wei, Arxiv Preprint
   </div>
 </div>
 
-这项工作主要专注于非欧几里得平面上的卷积和图注意力
+Brief Description: This work is dedicated to the study of deep learning methods on non-Euclidean shapes. By applying convolutional neural networks and graph attention on spherical surfaces, it enhances the performance of cortical surface image registration.
 
 
 RESEARCH EXPERIENCE  
 ------
-•	Intelligent Medical Image Analysis and Precision Diagnosis Lab, Guizhou University	 Guizhou, China
+• Cortical Surface Image Registration Research
+
+Intelligent Medical Image Analysis and Precision Diagnosis Lab, Guizhou University	 Guizhou, China
 
 Research assistant, supervised by Prof. Lihui Wang	Oct 2022 – Jun 2024
 
@@ -77,13 +79,15 @@ Research assistant, supervised by Prof. Lihui Wang	Oct 2022 – Jun 2024
   
 - Conducted research on spherical convolutional neural networks (Spherical CNNs), focusing on applying them to cortical surface data for advanced spatial analysis.
   
-•	Artificial Intelligence Lab, Guizhou University	 Guizhou, China
+•	Perception and Tracking Algorithms for AR Devices
+
+Artificial Intelligence Lab, Guizhou University	 Guizhou, China
 
 Research assistant, supervised by Prof. Chuhua Huang	Aug 2021 – Oct 2022
 
 - Developed and implemented SLAM (Simultaneous Localization and Mapping) technology for AR devices and smartphones, enhancing real-time spatial awareness and interaction.
   
-- Collaborated on the development of a deep learning model for gesture recognition, optimizing accuracy and performance for real-world applications.
+- Collaborated on the development of a deep learning model for action recognition, optimizing accuracy and performance for real-world applications.
 
 
 SELECTED AWARDS AND HONORS
