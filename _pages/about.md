@@ -46,6 +46,8 @@ PREPRINTS
 GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration
 __Ruoyu Zhang__, Lihui Wang, Kun Tang\textsuperscript{1}, Jingwen Xu, Hongjiang Wei, Arxiv Preprint
 
+<img src="../images/version_1.png" alt="version_1" style="width:600px; display: block; margin: 0 auto;">
+
 这项工作主要专注于非欧几里得平面上的卷积和图注意力
 
 RESEARCH EXPERIENCE  
