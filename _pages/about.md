@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic Profile of Ruoyu Zhang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 I am Ruoyu Zhang, and I have obtained my Master's degree in Software Engineering from Guizhou University. I am currently applying for PhD programs for the Fall 2025 intake. Below is an overview of my background: 
 
 EDUCATION
-======
+------
 Guizhou University	<span style="float: right;">Guizhou, China</span>
 
 Supervisor: Prof. Lihui Wang <span style="float: right;">Sep 2021 – July 2024</span>
