@@ -26,8 +26,6 @@ Shandong University of Science and Technology	<span style="float: right;">Qingda
 
 __B.S. in Computer Science__ <span style="float: right;">Sep 2016 – July 2020</span>
 
-Average Score: 82.02/100
-
 
 PESEARCH INTERESTS
 ------
@@ -113,5 +111,3 @@ INVITED TALKS AND MEDIA COVERAGE
 SKILLS
 ------
 Progarmming: C, Python(Pytorch, Tensorflow, PyG), LATEX, MATLAB, Development and debugging on Linux servers
-
-English: IELTS in prepared. I expect to achieve a score of 6.5 or higher in early November.
