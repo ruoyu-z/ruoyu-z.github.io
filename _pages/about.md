@@ -69,17 +69,26 @@ RESEARCH EXPERIENCE  
 ------
 • __Cortical Surface Image Registration Research__
 
-Intelligent Medical Image Analysis and Precision Diagnosis Lab, Guizhou University	 Guizhou, China <span style="float: right;">Oct 2022 – Jun 2024</span>
+Intelligent Medical Image Analysis and Precision Diagnosis Lab(IMIAPD Lab) <span style="float: right;">Oct 2022 – Jun 2024</span>
 
 Research assistant, supervised by Prof. Lihui Wang
 
 - Processed large-scale cortical surface data and developed a deep learning model for cortical surface registration, improving alignment and analysis accuracy.
   
 - Conducted research on spherical convolutional neural networks (Spherical CNNs), focusing on applying them to cortical surface data for advanced spatial analysis.
-  
+
+•	__Intelligent Recognition of Fatigue Driving Based on Edge-Cloud Collaborative Computing__
+
+IMIAPD Lab and Network Security Laboratory
+Research assistant, supervised by Prof. Lihui Wang & Guowei Shen <span style="float: right;">Oct 2023 – Jan 2024</span>
+
+- Developed an edge-cloud collaborative application system aimed at faster detection of fatigue and distracted driving.
+
+- Designed an object detection model based on YOLOv8 and quantized it for deployment in the ModelBox development framework to enhance inference speed. Achieved efficient communication between edge and cloud under the Linux system, and implemented multiple fatigue driving alert features.
+
 •	__Perception and Tracking Algorithms for AR Devices__
 
-Artificial Intelligence Lab, Guizhou University	 Guizhou, China <span style="float: right;">Aug 2021 – Oct 2022</span>
+Artificial Intelligence Lab <span style="float: right;">Aug 2021 – Oct 2022</span>
 
 Research assistant, supervised by Prof. Chuhua Huang
 
@@ -87,18 +96,42 @@ Research assistant, supervised by Prof. Chuhua Huang
   
 - Collaborated on the development of a deep learning model for action recognition, optimizing accuracy and performance for real-world applications.
 
+•	__Deep Learning-Based Open-Domain Generative Chatbot__
+
+School of Computer Science	<span style="float: right;">Jan 2020 – May 2020</span>
+
+- Conducted data preprocessing on publicly available Chinese corpora, including data cleaning, word segmentation, and building training datasets.
+- 
+- Used Long Short-Term Memory (LSTM) to construct a deep learning model for natural language dialogue generation, resulting in a Chinese chatbot capable of multi-turn conversations, with improved coherence and naturalness through model structure optimization and training strategies.
 
 SELECTED AWARDS AND HONORS
 ------
 •	Special Academic Scholarship (Top 3%), Guizhou University	<span style="float: right;">2024</span>
 
-•	National First Prize, 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition	<span style="float: right;">2023</span>
+•	National First Prize(Top 1% to 3%), 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition	<span style="float: right;">2023</span>
 
 •	First-class Graduate Academic Scholarship (Top 5%), Guizhou University	<span style="float: right;">2022</span>
 
-•	National Third Prize, Robocom Robotics Developer Competition <span style="float: right;">2022</span>
+•	National Third Prize(Top 20%), Robocom Robotics Developer Competition <span style="float: right;">2022</span>
 
 •	Second-class Scholarship (Top 20%), Shandong University of Science and Technology	<span style="float: right;">2017 & 2018</span>
+
+
+WORK EXPERIENCE
+------
+•	Java Backend Developer & Database Manager <span style="float: right;">Dec 2021 – May 2022</span>
+
+Hangzhou Zhuokun Technology Co., Ltd.	 
+
+- The project aimed to create health cards for disabled individuals in Guiyang, providing health cards to over 10,000 disabled individuals in Guizhou to ensure free access to public services like transportation.
+  
+- Developed the backend system in Java, managed databases, and coordinated data-related tasks with the Guizhou Disabled Persons' Federation.
+
+•	Lecturer in Data Structures <span style="float: right;">Sept 2022 – Jan 2023</span>
+
+Guiyang Institute of Information Science and Technology
+
+- Delivered lectures for the Data Structures course, designed and created teaching materials, homework and exams. for approximately 120 students across two classes.
 
 
 INVITED TALKS AND MEDIA COVERAGE
@@ -110,4 +143,7 @@ INVITED TALKS AND MEDIA COVERAGE
 
 SKILLS
 ------
-Progarmming: C, Python(Pytorch, Tensorflow, PyG), LATEX, MATLAB, Development and debugging on Linux servers
+Technical Skills: C/C++, Java, Python (Pytorch, Tensorflow, PyG), LaTeX, MATLAB, Development and debugging on Linux servers, Statistics
+
+Soft Skills: Effective communication in technical and academic contexts, Strong teamwork and collaboration abilities in multidisciplinary projects
+
