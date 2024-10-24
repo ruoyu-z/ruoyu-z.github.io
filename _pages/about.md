@@ -45,7 +45,7 @@ Brief Description: This work utilizes deep learning methods for action recogniti
 PREPRINTS
 ------
 GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration
-__Ruoyu Zhang__, Lihui Wang, Kun Tang, Jingwen Xu, Hongjiang Wei, Arxiv Preprint
+__Ruoyu Zhang__, Lihui Wang, Kun Tang, Jingwen Xu, Hongjiang Wei, [Arxiv Preprint](https://arxiv.org/abs/2410.14805)
 
 <div style="width: 100%; overflow: hidden;">
   <!-- 左边的图片 -->
@@ -77,9 +77,9 @@ Research assistant, supervised by Prof. Lihui Wang
 
 •	__Intelligent Recognition of Fatigue Driving Based on Edge-Cloud Collaborative Computing__
 
-IMIAPD Lab and Network Security Laboratory
+IMIAPD Lab and Network Security Laboratory <span style="float: right;">Oct 2023 – Jan 2024</span>
 
-Research assistant, supervised by Prof. Lihui Wang & Guowei Shen <span style="float: right;">Oct 2023 – Jan 2024</span>
+Research assistant, supervised by Prof. Lihui Wang & Guowei Shen
 
 - Developed an edge-cloud collaborative application system aimed at faster detection of fatigue and distracted driving.
 
