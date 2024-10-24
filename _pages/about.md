@@ -33,10 +33,8 @@ Machine Learning, Computer Vision and Pattern Recognition, MR/AR/VR, Human-Compu
 
 PUBLICATIONS
 ------
-[Journal of Electronic Imaging]
-
 LGST-Drop: Label-guided structural dropout for spatial–temporal convolutional neural networks
-Cui H., Huang R., __Zhang R__., et al. 
+Hu Cui, Renjing Huang, __Ruoyu Zhang__, Chuhua Huang
 Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 
 Brief Description: This work utilizes deep learning methods for action recognition and improves the performance of convolutional neural networks through a novel dropout method.
@@ -80,6 +78,7 @@ Research assistant, supervised by Prof. Lihui Wang
 •	__Intelligent Recognition of Fatigue Driving Based on Edge-Cloud Collaborative Computing__
 
 IMIAPD Lab and Network Security Laboratory
+
 Research assistant, supervised by Prof. Lihui Wang & Guowei Shen <span style="float: right;">Oct 2023 – Jan 2024</span>
 
 - Developed an edge-cloud collaborative application system aimed at faster detection of fatigue and distracted driving.
@@ -101,7 +100,7 @@ Research assistant, supervised by Prof. Chuhua Huang
 School of Computer Science	<span style="float: right;">Jan 2020 – May 2020</span>
 
 - Conducted data preprocessing on publicly available Chinese corpora, including data cleaning, word segmentation, and building training datasets.
-- 
+
 - Used Long Short-Term Memory (LSTM) to construct a deep learning model for natural language dialogue generation, resulting in a Chinese chatbot capable of multi-turn conversations, with improved coherence and naturalness through model structure optimization and training strategies.
 
 SELECTED AWARDS AND HONORS
