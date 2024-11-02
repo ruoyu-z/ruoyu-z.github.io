@@ -13,7 +13,7 @@ EDUCATION
 ------
 Guizhou University	<span style="float: right;">Guizhou, China</span>
 
-Supervisor: Prof. [Lihui Wang](https://example.com) <span style="float: right;">Sep 2021 – July 2024</span>
+Supervisor: Prof. [Lihui Wang](https://scholar.google.com/citations?user=VSeG1v0AAAAJ&hl=en) <span style="float: right;">Sep 2021 – July 2024</span>
 
 __Master in Software Engineering__       
 
