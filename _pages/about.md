@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ruoyu Zhang, and I have obtained my Master's degree in Software Engineering from Guizhou University. I am currently applying for PhD programs for the Fall 2025 intake. Below is an overview of my background: 
+I am Ruoyu Zhang, and I have obtained my Master's degree in Software Engineering from Guizhou University. I am currently applying for PhD programs for the Fall 2025 intake. Additionally, I am open to opportunities for the Spring 2025 intake, should there be availability. Below is an overview of my background: 
 
 EDUCATION
 ------
