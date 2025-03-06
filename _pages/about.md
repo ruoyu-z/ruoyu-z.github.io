@@ -150,7 +150,7 @@ SKILLS
 ------
 Technical Skills: C/C++, Java, Python (Pytorch, Tensorflow, PyG), LaTeX, MATLAB, Development and debugging on Linux servers, Statistics
 
-Language Skills: English(IELTS Band 6.5), Mandarin(Native)
+Language Skills: English(IELTS Band 6.5, Listening 6 Reading 8 Writing 6 Speaking 5.5), Mandarin(Native)
 
 Soft Skills: Effective communication in technical and academic contexts, Strong teamwork and collaboration abilities in multidisciplinary projects
 
