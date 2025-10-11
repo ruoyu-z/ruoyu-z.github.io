@@ -15,7 +15,7 @@ Auburn University	<span style="float: right;">Auburn, AL, USA</span>
 
 Supervisor: Prof. [Shuai Huang](https://scholar.google.com/citations?user=f811MKIAAAAJ&hl=zh-CN&oi=ao) <span style="float: right;">Sep 2025 – Now</span>
 
-__Ph.D in ELECTRICAL AND COMPUTER ENGINEERING__
+__Ph.D in Electrical and Computer Engineering__
 
 Guizhou University	<span style="float: right;">Guiyang, China</span>
 
