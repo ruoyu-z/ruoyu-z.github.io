@@ -11,7 +11,13 @@ My name is Ruoyu Zhang. I am currently a Ph.D. student at Auburn University, whe
 
 EDUCATION
 ------
-Guizhou University	<span style="float: right;">Guizhou, China</span>
+Auburn University	<span style="float: right;">Auburn, AL, USA</span>
+
+Supervisor: Prof. [Shuai Huang](https://scholar.google.com/citations?user=f811MKIAAAAJ&hl=zh-CN&oi=ao) <span style="float: right;">Sep 2025 – Now</span>
+
+__Master in Software Engineering__
+
+Guizhou University	<span style="float: right;">Guiyang, China</span>
 
 Supervisor: Prof. [Lihui Wang](https://scholar.google.com/citations?user=VSeG1v0AAAAJ&hl=en) <span style="float: right;">Sep 2021 – July 2024</span>
 
