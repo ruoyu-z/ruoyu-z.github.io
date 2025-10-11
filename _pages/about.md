@@ -13,7 +13,7 @@ EDUCATION
 ------
 Auburn University	<span style="float: right;">Auburn, AL, USA</span>
 
-Supervisor: Prof. [Shuai Huang](https://scholar.google.com/citations?user=f811MKIAAAAJ&hl=zh-CN&oi=ao) <span style="float: right;">Sep 2025 – Now</span>
+Supervisor: Prof. [Shuai Huang](https://scholar.google.com/citations?user=f811MKIAAAAJ&hl=zh-CN&oi=ao) <span style="float: right;">Sep 2025 – Present</span>
 
 __Ph.D in Electrical and Computer Engineering__
 
