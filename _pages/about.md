@@ -41,8 +41,9 @@ Machine Learning, Computer Vision and Pattern Recognition, MR/AR/VR, Human-Compu
 
 Publications & Submissions
 ------
-GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration
+[1]GESH-Net: Graph-Enhanced Spherical Harmonic Convolutional Networks for Cortical Surface Registration
 __Ruoyu Zhang__, Lihui Wang, Kun Tang, Jingwen Xu, Hongjiang Wei
+
 Submitted to Computerized Medical Imaging and Graphics (under review)[Arxiv Preprint](https://arxiv.org/abs/2410.14805)
 
 *Please note that this preprint represents early findings and has not yet undergone thorough revision. The results are preliminary and are intended to provide an initial insight into my research.*
@@ -62,7 +63,7 @@ Submitted to Computerized Medical Imaging and Graphics (under review)[Arxiv Prep
 
 Brief Description: This work is dedicated to the study of deep learning methods on non-Euclidean shapes. By applying convolutional neural networks and graph attention on spherical surfaces, it enhances the performance of cortical surface image registration.
 
-LGST-Drop: Label-guided structural dropout for spatial–temporal convolutional neural networks
+[2]LGST-Drop: Label-guided structural dropout for spatial–temporal convolutional neural networks
 Hu Cui, Renjing Huang, __Ruoyu Zhang__, Chuhua Huang
 Journal of Electronic Imaging, IF: 31(3): 033036-033036, 2022
 
@@ -70,7 +71,7 @@ Brief Description: This work utilizes deep learning methods for action recogniti
 
 <img src="../images/LGST-Drop.png" alt="The pipeline of LGST-Drop" style="width:600px; display: block; margin: 0 auto;">
 
-DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling
+[3]DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling
 Hu Cui, Renjing Huang, __Ruoyu Zhang__, Tessai Hayama
 
 RESEARCH EXPERIENCE  
