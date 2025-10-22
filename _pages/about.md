@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruoyu Zhang. I am currently a Ph.D. student at Auburn University, where my work focuses on AI for Healthcare. Prior to joining Auburn in Fall 2025, I completed my Master's degree in Software Engineering at Guizhou University. My detailed background is outlined below: 
+My name is Ruoyu Zhang. I am currently a Ph.D. student at Auburn University, where my work focuses on Machine Leaning and AI. Prior to joining Auburn in Fall 2025, I completed my Master's degree in Software Engineering at Guizhou University. My detailed background is outlined below: 
 
 EDUCATION
 ------
@@ -33,11 +33,6 @@ Shandong University of Science and Technology	<span style="float: right;">Qingda
 __B.S. in Computer Science__ <span style="float: right;">Sep 2016 – July 2020</span>
 
 GPA: 82.02/100
-
-
-PESEARCH INTERESTS
-------
-Machine Learning, Computer Vision and Pattern Recognition, MR/AR/VR, Human-Computer Interaction, Educational Technology
 
 Publications & Submissions
 ------
