@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruoyu Zhang. I am currently a Ph.D. student at Auburn University, where my work focuses on Machine Leaning and AI. Prior to joining Auburn in Fall 2025, I completed my Master's degree in Software Engineering at Guizhou University. My detailed background is outlined below: 
+My name is Ruoyu Zhang. I am currently a Ph.D. student at Auburn University, where my work focuses on AI and CV. 
+From Dec 2022 to Apr 2024, I dedicated myself to research. I completed a research paper, won the National First Prize in the Challenge Cup, and graduated top of my class with a Master’s degree from Guizhou University. I also received the First-Class Scholarship in 2023 and the Special-Class Scholarship in 2024, recognizing my hard work and self-driven attitude. My detailed background is outlined below:
 
 EDUCATION
 ------
