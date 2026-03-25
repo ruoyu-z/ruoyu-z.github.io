@@ -117,11 +117,11 @@ SELECTED AWARDS AND HONORS
 ------
 •	Special Academic Scholarship (Top 3%), Guizhou University	<span style="float: right;">2024</span>
 
-•	National First Prize(Top 1% to 3%), 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition	<span style="float: right;">2023</span>
+•	National First Prize(Top 0.5%), 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition	<span style="float: right;">2023</span>
 
 •	First-class Graduate Academic Scholarship (Top 5%), Guizhou University	<span style="float: right;">2022</span>
 
-•	National Third Prize(Top 20%), Robocom Robotics Developer Competition <span style="float: right;">2022</span>
+•	National Third Prize(Top 6%), Robocom Robotics Developer Competition <span style="float: right;">2022</span>
 
 •	Second-class Scholarship (Top 20%), Shandong University of Science and Technology	<span style="float: right;">2017 & 2018</span>
 
