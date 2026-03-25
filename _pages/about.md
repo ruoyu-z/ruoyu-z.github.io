@@ -18,7 +18,7 @@ Auburn University	<span style="float: right;">Auburn, AL, USA</span>
 
 __Master in Computer Science__
 
-GPA: 4.0/4.0
+GPA: 4.0/4.0, Phi Kappa Phi Honor Society
 
 Guizhou University	<span style="float: right;">Guiyang, China</span>
 
