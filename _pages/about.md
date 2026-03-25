@@ -18,6 +18,8 @@ Auburn University	<span style="float: right;">Auburn, AL, USA</span>
 
 __Master in Computer Science__
 
+GPA: 4.0/4.0
+
 Guizhou University	<span style="float: right;">Guiyang, China</span>
 
 Supervisor: Prof. [Lihui Wang](https://scholar.google.com/citations?user=VSeG1v0AAAAJ&hl=en) <span style="float: right;">Sep 2021 – July 2024</span>
